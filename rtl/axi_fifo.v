@@ -29,7 +29,7 @@ THE SOFTWARE.
 `default_nettype none
 
 /*
- * AXI4 FIFO
+ * AXI4 FIFO Stream
  */
 module axi_fifo #
 (
